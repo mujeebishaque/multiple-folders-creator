@@ -12,3 +12,9 @@ Creates folders within a parent directory. You'd have to create a parent folder 
 Requirements
 ------------
 Works on windows platform only. I've tested it on windows 10 x64.
+
+Download
+--------
+Download the software from my dropbox link here: 
+
+https://www.dropbox.com/s/qhpata8eiwc8msq/folders-generator-v1.zip?dl=0
