@@ -1,4 +1,4 @@
-# multiple-folders-creator
+# multiple-folders-creator-v1
 create multiple folders in your parent directory on 2 clicks.
 
 
@@ -8,3 +8,7 @@ Instructions
 ------------
 
 Creates folders within a parent directory. You'd have to create a parent folder and select it from the software, the folders will be created under that parent folder. 
+
+Requirements
+------------
+Works on windows platform only. I've tested it on windows 10 x64.
