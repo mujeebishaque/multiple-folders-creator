@@ -18,3 +18,7 @@ Download
 Download the software from my dropbox link here: 
 
 https://www.dropbox.com/s/qhpata8eiwc8msq/folders-generator-v1.zip?dl=0
+
+You can click on the button at top right corner on dropbox link to download it.
+
+> Next version coming up with another improvement
